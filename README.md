@@ -1,4 +1,6 @@
 # CafeMenu
+![image](https://github.com/kylehraja/CafeMenu/assets/140476247/b7975c85-a977-4d8d-b9d9-e5f048552e88)
+
 
 Set up to run web page:
 
